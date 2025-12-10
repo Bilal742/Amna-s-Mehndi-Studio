@@ -8,6 +8,8 @@ import About from "./components/About/about";
 import Gallery from "./components/Gallery/gallery";
 import Reviews from "./components/Reviews/ReviewsSection";
 import ContactForm from "./components/Contact/Contact";
+import MehndiProjects3D from "./components/Projects/Projects";
+import ProjectsPage from "./components/Projects/Projects";
 
 export default function Home() {
   const { theme } = useTheme();
@@ -18,6 +20,7 @@ export default function Home() {
       <Hero />
       <About />
       <Services />
+      <ProjectsPage />
       <Gallery theme={theme} limit={8} />
       <Reviews maxReviews={4} showViewAllButton={true} />
       <ContactForm />
