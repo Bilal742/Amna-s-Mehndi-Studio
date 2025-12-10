@@ -120,6 +120,8 @@ my-next-app/
    
    ```bash
    https://github.com/Bilal742/Amna-s-Mehndi-Studio.git
+
+---
   
 3. **Install Dependencies:**
    
@@ -127,6 +129,7 @@ my-next-app/
    npm install
    or
    yarn
+   
 ---
 
 3. **Run the Development Server:**
