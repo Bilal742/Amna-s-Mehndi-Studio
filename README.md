@@ -129,7 +129,7 @@ npm run dev
 
 To enable email sending, add the following to `.env.local`:
 
-# Firebase Config
+## Firebase Config
 
 ```
 NEXT_PUBLIC_FIREBASE_API_KEY=your_firebase_api_key
@@ -139,12 +139,15 @@ NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=your_storage_bucket
 NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=your_sender_id
 NEXT_PUBLIC_FIREBASE_APP_ID=your_app_id
 
-# Google Auth
+```
+
+## Google Auth
 
 ```
 GOOGLE_CLIENT_ID=your_google_client_id
 
-# Contact Form (Resend)
+```
+## Contact Form (Resend)
 
 ```
 RESEND_API_KEY=your_resend_api_key
