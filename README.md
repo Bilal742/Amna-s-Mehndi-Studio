@@ -17,15 +17,15 @@ Welcome to **Amna's Mehndi Studio** – a professional mehndi (henna) services w
 
 ---
 
-## ✨ Features
-
-* 🎨 **Beautiful Mehndi Gallery** with categories (Bridal, Arabic, Simple, Foot Mehndi, and more)
-* 📱 **Fully Responsive Design** – Perfect on mobile, tablet, and desktop
-* 🌙 **Light & Dark Theme Support**
-* 📩 **Contact Form** with validation and smooth toast notifications
-* ⭐ **Reviews Section** with View All option
-* 🖼️ Image hover zoom & modal slider functionality
-* ⚡ Fast, SEO-friendly & optimized with Next.js 15 App Router
+| Feature | Description |
+|--------|-------------|
+| 🎨 **Beautiful Mehndi Gallery** with categories (Bridal, Arabic, Simple, Foot Mehndi, and more)
+| 📱 **Fully Responsive Design** – Perfect on mobile, tablet, and desktop
+| 🌙 **Light & Dark Theme Support**
+| 📩 **Contact Form** with validation and smooth toast notifications
+| ⭐ **Reviews Section** with View All option
+| 🖼️ Image hover zoom & modal slider functionality
+| ⚡ Fast, SEO-friendly & optimized with Next.js 15 App Router
 
 ---
 
