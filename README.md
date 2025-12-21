@@ -9,7 +9,7 @@
 
 Welcome to **Amna's Mehndi Studio** – a professional mehndi (henna) services website built with **Next.js**, offering a modern UI, smooth animations, and an elegant user experience.
  
----
+--- 
 
 ## 🌐 Live Demo
  
