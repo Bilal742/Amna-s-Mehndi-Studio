@@ -1,4 +1,4 @@
-# 🌸 Amna's Mehndi Studio – Official Website
+# 🌸 Amna's Mehndi Studio – Official Website 
 
 ![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-18-blue?logo=react&style=for-the-badge) 
@@ -8,11 +8,11 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 Welcome to **Amna's Mehndi Studio** – a professional mehndi (henna) services website built with **Next.js**, offering a modern UI, smooth animations, and an elegant user experience.
-
----
+ 
+--- 
 
 ## 🌐 Live Demo
-
+ 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Now-brightgreen?style=for-the-badge&logo=vercel)](https://hood-anixx.vercel.app/)
 
 ---
