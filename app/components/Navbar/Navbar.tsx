@@ -55,7 +55,7 @@ export default function Navbar() {
 
                     <div
                         onClick={() => router.push("/")}
-                        className="cursor-pointer text-2xl font-bold">Amna’s</div>
+                        className="cursor-pointer text-2xl font-bold w-50"><img src="/favicon.ico" alt="" /></div>
 
                     <div className="hidden lg:flex space-x-6 items-center">
                         {navLinks.map((link) => (

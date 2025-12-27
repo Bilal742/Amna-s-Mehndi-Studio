@@ -48,11 +48,10 @@ export default function ProjectsPage() {
     const prevSlide = () => setCurrentIndex((currentIndex - 1 + filteredProjects.length) % filteredProjects.length);
     const nextSlide = () => setCurrentIndex((currentIndex + 1) % filteredProjects.length);
 
-    // Autoplay
-    // useEffect(() => {
-    //     const interval = setInterval(() => nextSlide(), 4000);
-    //     return () => clearInterval(interval);
-    // }, [currentIndex, filteredProjects.length]);
+    useEffect(() => {
+        const interval = setInterval(() => nextSlide(), 4000);
+        return () => clearInterval(interval);
+    }, [currentIndex, filteredProjects.length]);
 
     const handleKey = useCallback(
         (e: KeyboardEvent) => {
