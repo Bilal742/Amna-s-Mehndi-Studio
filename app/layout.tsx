@@ -7,15 +7,9 @@ import { motion } from "framer-motion";
 import { SessionProvider } from "next-auth/react";
 import Footer from "./components/Footer/footer";
 import { Toaster } from "react-hot-toast";
-import { Metadata } from "next";
 
 const geistSans = Geist({ variable: "--font-geist-sans", subsets: ["latin"] });
 const geistMono = Geist_Mono({ variable: "--font-geist-mono", subsets: ["latin"] });
-
-// export const metadata: Metadata = {
-//   title: "amnas",
-//   description: "Explore our Hoodie Collection",
-// };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
